@@ -4,6 +4,10 @@
   <img src="images/tech.png">
 </p>
 
+<div align="left">
+<h2> Мои проекты </h2>
+</div>
+<p align="center">
 
 
 <!--
