@@ -9,6 +9,7 @@
 </div>
 <p align="center">
 <a href="https://github.com//Ilnar30/allure-autotest"
+/a>
 
 <!--
 **Ilnar30/Ilnar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
