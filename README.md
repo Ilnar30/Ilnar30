@@ -8,9 +8,10 @@
 <h2> Мои проекты </h2>
 </div>
 <p align="center">
- <a href="https://github.com/Ilnar30/demoqa-jenkins
-"><img width="250"src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ilnar30&repo=demoqa-jenkins&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
-
+ <a href="https://github.com/Ilnar30/demoqa-jenkins"><img width="250"src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ilnar30&repo=demoqa-jenkins&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
+ <a href="https://github.com/Ilnar30/demoqa-jenkins"><img width="250"src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ilnar30&repo=allure-autotest&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
+  <a href="https://github.com/Ilnar30/demoqa-jenkins"><img width="250"src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ilnar30&repo=allure-autotest&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="qaGuruDiploma"></a>
+  </p>  
 
 
 
